@@ -127,6 +127,7 @@ a{
 }
 #twitter{
     font-weight: 700;
+    color: rgb(24, 24, 24);
 }
 @media screen and (max-width: 768px) {
     .open{
