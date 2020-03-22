@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="131" height="25" viewBox="0 0 131 25">
+  <defs>
+    <clipPath id="clip-Focusmate_Logo">
+      <rect width="131" height="25"/>
+    </clipPath>
+  </defs>
+  <g id="Focusmate_Logo" data-name="Focusmate Logo" clip-path="url(#clip-Focusmate_Logo)">
+    <rect width="131" height="25" fill="#fff"/>
+    <text id="Focusmate" transform="translate(0 20)" fill="#4648aa" font-size="26" font-family="AvenirNextLTPro-Bold, Avenir Next LT Pro" font-weight="700"><tspan x="0" y="0">Focus</tspan><tspan y="0" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro" font-weight="400">mate</tspan></text>
+  </g>
+</svg>
