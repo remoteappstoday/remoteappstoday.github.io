@@ -1,11 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="131" height="25" viewBox="0 0 131 25">
-  <defs>
-    <clipPath id="clip-Focusmate_Logo">
-      <rect width="131" height="25"/>
-    </clipPath>
-  </defs>
-  <g id="Focusmate_Logo" data-name="Focusmate Logo" clip-path="url(#clip-Focusmate_Logo)">
-    <rect width="131" height="25" fill="#fff"/>
-    <text id="Focusmate" transform="translate(0 20)" fill="#4648aa" font-size="26" font-family="AvenirNextLTPro-Bold, Avenir Next LT Pro" font-weight="700"><tspan x="0" y="0">Focus</tspan><tspan y="0" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro" font-weight="400">mate</tspan></text>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="154px" height="154px" viewBox="0 0 154 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>focusmate</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" fill="#35319A">
+            <g id="focusmate">
+                <g id="Group-3">
+                    <path d="M90.7049994,39 C95.2862018,39 99,42.7137982 99,47.2950006 L99,107.704999 C99,112.286202 95.2862018,116 90.7049994,116 L19.2950006,116 C14.7137982,116 11,112.286202 11,107.704999 L11,47.2950006 C11,42.7137982 14.7137982,39 19.2950006,39 L90.7049994,39 Z M139.919,44.9442097 C141.620589,44.9442097 143,46.3236205 143,48.0252099 L143,48.0252099 L143,106.958548 C143,107.447288 142.883729,107.929017 142.66079,108.363948 C141.884608,109.878197 140.027848,110.476519 138.513599,109.700337 L138.513599,109.700337 L106.288923,93.1824459 C105.497672,92.7768623 105,91.9625204 105,91.0733768 L105,91.0733768 L105,63.7936094 C105,62.9020154 105.500391,62.0858618 106.294988,61.6814423 L106.294988,61.6814423 L138.521484,45.2793927 C138.954387,45.0590617 139.433252,44.9442097 139.919,44.9442097 Z" id="focusmate"></path>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
